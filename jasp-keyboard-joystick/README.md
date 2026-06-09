@@ -16,7 +16,7 @@ There is no detailed build guide available at the moment, but you can see the wh
 
 
 ## Firmware
-There is a quick and dirty firmware available [here](https://github.com/multifex/prototypes/blob/main/jasp-keyboard-joystick/firmware), it's super basic but it works. If I make something more advanced, I'll be sure to update it. [Installation guide](https://github.com/multifex/prototypes/blob/main/jasp-keyboard-joystick/firmware/Firmware_Installation_Guide.md)
+use gp2040 ce https://gp2040-ce.info/ 
 
 
 ## License
