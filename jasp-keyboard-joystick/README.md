@@ -11,6 +11,10 @@ The Keyboard Joystick solves the WASD movement problem for PC gamers. You can al
 There is no detailed build guide available at the moment, but you can see the whole build process in [this video](https://www.youtube.com/watch?v=S8SKIpWGIe8&t=1s)
 
 ## Wiring Diagram
+use the same wireing diagram but insted of useing a ardunio usse a pico 
+GPIO 26: ADC0 (Analog Input 0) x 
+GPIO 27: ADC1 (Analog Input 1) y
+ground to ground power to power
 
 ![Wiring_diagram](https://github.com/multifex/prototypes/blob/main/jasp-keyboard-joystick/ProMicro_Wiring_Diagram.png)
 
